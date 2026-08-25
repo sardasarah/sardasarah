@@ -2,7 +2,12 @@
 
 **`Futura Analista de Dados`**
 
-Me chamo Sarah Cristina Pereira Costa, tenho 19 anos e sou natural de São Paulo. Participei de um Bootcamp em 2019 na minha atual faculdade e desde então tenho mergulhado na área de tecnologia, principalmente dados e IA, assunto do meu curso, o primeiro curso de Inteligência Artificial do Estado de São Paulo . Atualmente, estou trabalhando como atendente na empresa Poupatempo do governo de São Paulo. Tenho o interesse de trazer por aqui os projetos superinteressantes que tenho feito fora e dentro da sala de aula, afim de mostrar ao público como I.A não é um bicho de sete cabeças.
+Estudante de tecnologia em busca de uma oportunidade de estágio na área de Dados.
+Tenho interesse em Análise de Dados e Machine Learning.
+
+Atualmente, busco uma oportunidade para aplicar meus conhecimentos, aprender com profissionais da área e contribuir em projetos reais envolvendo dados.
+
+Aqui no GitHub compartilho meus projetos, estudos e experiências práticas.
 
 
 <p align="left">
